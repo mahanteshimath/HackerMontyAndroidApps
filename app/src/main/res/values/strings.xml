@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebasetest</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_heading">ENTER HEADING</string>
+</resources>

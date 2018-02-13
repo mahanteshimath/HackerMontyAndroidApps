@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "664243558082",
+    "firebase_url": "https://fir-test-ac603.firebaseio.com",
+    "project_id": "fir-test-ac603",
+    "storage_bucket": "fir-test-ac603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664243558082:android:0f4e9e3bbc2750c7",
+        "android_client_info": {
+          "package_name": "com.android.hackermonty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664243558082-qr1b8a8tij9jmthgb6c88cgl31q8lo2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.hackermonty",
+            "certificate_hash": "4db698874f05549020cb02a5999dba2a9fe00360"
+          }
+        },
+        {
+          "client_id": "664243558082-mgvt4a51t70s1jnqparvbfttct8kfn3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSKHKMraoThiKK4zt_tN2rEEgnbrs8Hs4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664243558082-mgvt4a51t70s1jnqparvbfttct8kfn3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
